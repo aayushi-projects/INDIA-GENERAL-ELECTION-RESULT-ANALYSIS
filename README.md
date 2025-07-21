@@ -4,13 +4,13 @@ I created this Power BI project to analyze the results of the India General Elec
 This project helped me understand not just how to use Power BI tools but also how data can tell a story, especially in the context of large-scale elections. I’ve tried to include visualizations that are simple to understand but detailed enough to be useful.
 
 # Tools Used
-Power BI Desktop – For building and designing the dashboard.
+(i)Power BI Desktop – For building and designing the dashboard.
 
-Power Query Editor – For cleaning and preparing the data before visualizing.
+(ii)Power Query Editor – For cleaning and preparing the data before visualizing.
 
-Excel/CSV – Used as the original source for all the datasets.
+(iii)Excel/CSV – Used as the original source for all the datasets.
 
-DAX formulas – For calculated columns and custom measures like vote percentages, totals, etc.
+(iv)DAX formulas – For calculated columns and custom measures like vote percentages, totals, etc.
 
 # Dashboard Highlights
 🟢 Party-Wise Vote Share
@@ -29,28 +29,28 @@ Shows a list of candidates who got the highest number of votes across the countr
 There's a map of India where each state is colored based on the leading party. Makes it easier to get a quick overview of who won where.
 
 # Features Included
-Filters/slicers to explore data by state, party, or constituency.
+(i)Filters/slicers to explore data by state, party, or constituency.
 
-Hover tooltips to show extra info without crowding the visuals.
+(ii)Hover tooltips to show extra info without crowding the visuals.
 
-Cards at the top for quick KPIs like total votes, number of constituencies, and total turnout.
+(iii)Cards at the top for quick KPIs like total votes, number of constituencies, and total turnout.
 
-Drill-down options in some visuals to go deeper (like from country → state → constituency).
+(iv)Drill-down options in some visuals to go deeper (like from country → state → constituency).
 
-Consistent colors used for each party across visuals to avoid confusion.
+(v)Consistent colors used for each party across visuals to avoid confusion.
 
 #  What I Learned
-This was a good learning experience for me because I used Power BI end-to-end — from loading and cleaning the data to creating calculated measures and visuals. Some of the key things I learned:
+(i)This was a good learning experience for me because I used Power BI end-to-end from loading and cleaning the data to creating calculated measures and visuals. Some of the key things I learned:
 
-How to use Power Query to clean messy datasets (like removing empty rows, renaming columns, changing data types, etc.)
+(ii)How to use Power Query to clean messy datasets (like removing empty rows, renaming columns, changing data types, etc.)
 
-How to build relationships between multiple tables so that visuals update properly with filters.
+(iii)How to build relationships between multiple tables so that visuals update properly with filters.
 
-Writing DAX formulas to create custom metrics like vote share percentage, total votes per state, etc.
+(iv)Writing DAX formulas to create custom metrics like vote share percentage, total votes per state, etc.
 
-Using different types of charts and maps to make the data more understandable.
+(v)Using different types of charts and maps to make the data more understandable.
 
-Designing the layout so that it’s easy for anyone to explore without needing any technical background.
+(vi)Designing the layout so that it’s easy for anyone to explore without needing any technical background.
 
 # Why I Made This
 I’ve always been interested in data visualization and thought working on something like the Indian General Elections would be a great way to practice. It’s a real dataset with a lot of complexity, and Power BI was the perfect tool to work with. Through this project, I got a much better understanding of both Power BI and how data can be used to explore large-scale events like elections.
