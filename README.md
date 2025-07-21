@@ -1,5 +1,5 @@
 # INDIA GENERAL ELECTION RESULTS
-# About the Project
+
 I created this Power BI project to analyze the results of the India General Elections. The idea was to work with raw election data and turn it into an interactive dashboard that shows useful insights like which political parties performed best in different states, how the voter turnout varied, and which candidates got the most votes.
 This project helped me understand not just how to use Power BI tools but also how data can tell a story, especially in the context of large-scale elections. I’ve tried to include visualizations that are simple to understand but detailed enough to be useful.
 
